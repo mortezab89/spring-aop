@@ -1,0 +1,7 @@
+# Project exclude paths
+/target/
+/.idea/libraries/
+/.idea/
+/spring-framework-in-depth.iml
+/spring-framework-in-depth.ipr
+/spring-framework-in-depth.iws
